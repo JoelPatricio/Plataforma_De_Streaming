@@ -74,7 +74,7 @@ INSERT INTO series (id,nombre,clasificacion,genero,calificacion,tipo) VALUES
 ('8','Sobrenatural','C','Terror','4','series'),
 ('9','Los Originales','B15','Terror','4','series'),
 ('10','The Good Doctor','A','Drama','3','series'),
-('11','Sherlock','B12','Drama','4','series'),
+('11','Sherlock','B15','Drama','4','series'),
 ('12','Stranger Things','B15','Drama','4','series'),
 ('13','Peaky Blinders','B','Belico','3','series'),
 ('14','Los Simpson','B','Comedia','3','series'),
