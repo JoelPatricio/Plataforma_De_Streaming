@@ -1,0 +1,12 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #2c2e3e;
+	background-size: cover;
+	font-family: 'Roboto', sans-serif;
+	height: 100vh;
+}
+
+.formularioRegistro{
+    color:#f6f6f6;
+}
